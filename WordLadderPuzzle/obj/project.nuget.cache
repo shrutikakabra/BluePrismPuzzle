@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BAK0HsRp6Kw8HN6BcuKNb4Pa92kTnrYzmm8KSZ3afJNCJJJiEFRtaspSmaUHgvGSF7F40743Idqy3IH3B+ktEw==",
+  "success": true,
+  "projectFilePath": "D:\\BluePrism\\WordLadderPuzzle\\WordLadderPuzzle\\WordLadderPuzzle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shrut\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\shrut\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

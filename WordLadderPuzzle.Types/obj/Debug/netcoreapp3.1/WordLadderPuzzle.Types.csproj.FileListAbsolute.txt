@@ -1,0 +1,8 @@
+D:\BluePrism\WordLadderPuzzle\WordLadderPuzzle.Types\bin\Debug\netcoreapp3.1\WordLadderPuzzle.Types.deps.json
+D:\BluePrism\WordLadderPuzzle\WordLadderPuzzle.Types\bin\Debug\netcoreapp3.1\WordLadderPuzzle.Types.dll
+D:\BluePrism\WordLadderPuzzle\WordLadderPuzzle.Types\bin\Debug\netcoreapp3.1\WordLadderPuzzle.Types.pdb
+D:\BluePrism\WordLadderPuzzle\WordLadderPuzzle.Types\obj\Debug\netcoreapp3.1\WordLadderPuzzle.Types.AssemblyInfoInputs.cache
+D:\BluePrism\WordLadderPuzzle\WordLadderPuzzle.Types\obj\Debug\netcoreapp3.1\WordLadderPuzzle.Types.AssemblyInfo.cs
+D:\BluePrism\WordLadderPuzzle\WordLadderPuzzle.Types\obj\Debug\netcoreapp3.1\WordLadderPuzzle.Types.csproj.CoreCompileInputs.cache
+D:\BluePrism\WordLadderPuzzle\WordLadderPuzzle.Types\obj\Debug\netcoreapp3.1\WordLadderPuzzle.Types.dll
+D:\BluePrism\WordLadderPuzzle\WordLadderPuzzle.Types\obj\Debug\netcoreapp3.1\WordLadderPuzzle.Types.pdb

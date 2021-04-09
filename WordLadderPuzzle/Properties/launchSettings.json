@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordLadderPuzzle": {
+      "commandName": "Project",
+      "commandLineArgs": "cost some D:\\BluePrism\\words-english\\words-english.txt D:\\BluePrism\\words-english\\result.txt"
+    }
+  }
+}
